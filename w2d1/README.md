@@ -1,4 +1,4 @@
-# Week 2 Day 1:
+# Day 5:
 
 * **Agenda of the course**
 <img width="1512" alt="Screenshot 2025-05-27 at 9 05 18 PM" src="https://github.com/user-attachments/assets/6c42573b-6f10-4ed9-9ce8-69873ad40d99" />
