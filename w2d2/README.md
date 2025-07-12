@@ -1,4 +1,4 @@
-# Week 2 Day 2:
+# Day 6:
 * **Exploring .lib file**
 <img width="760" alt="Screenshot 2025-06-11 at 1 15 10 PM" src="https://github.com/user-attachments/assets/cfe5975b-ec85-476a-ae82-b6a92a1d42fa" />
 
