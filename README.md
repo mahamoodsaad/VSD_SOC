@@ -18,3 +18,16 @@
 [Day 8](https://github.com/mahamoodsaad/VSD_SOC/tree/main/Day8)
 
 [Day 9](https://github.com/mahamoodsaad/VSD_SOC/tree/main/Day9)
+
+[Day10](https://github.com/mahamoodsaad/VSD_SOC/tree/main/Day%2010)
+
+[Day 11](https://github.com/mahamoodsaad/VSD_SOC/tree/main/day%2011)
+
+[Day 12](https://github.com/mahamoodsaad/VSD_SOC/tree/main/Day%2012)
+
+[Day13](https://github.com/mahamoodsaad/VSD_SOC/tree/main/Day%2013)
+
+[Day 14](https://github.com/mahamoodsaad/VSD_SOC/tree/main/Day%2014)
+
+[Day 15](https://github.com/mahamoodsaad/VSD_SOC/tree/main/Day%2015)
+
