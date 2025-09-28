@@ -31,3 +31,6 @@
 
 [Day 15](https://github.com/mahamoodsaad/VSD_SOC/tree/main/Day%2015)
 
+[Day 16](https://github.com/mahamoodsaad/VSD_SOC/tree/main/Day%2016)
+
+[Day 17](https://github.com/mahamoodsaad/VSD_SOC/tree/main/Day%2017)
