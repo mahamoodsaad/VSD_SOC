@@ -83,3 +83,29 @@ run_synthesis
 <img width="1196" height="723" alt="Screenshot 2025-09-26 at 12 30 43 PM" src="https://github.com/user-attachments/assets/b97deea4-7778-4dbb-80e9-373a8fcb0d52" />
 <img width="1158" height="708" alt="Screenshot 2025-09-26 at 12 32 49 PM" src="https://github.com/user-attachments/assets/d5c9786e-84d1-4993-891b-d5c430c736fd" />
 
+* Flop Ratio and DFF % Calculation from Synthesis Statistics Report File
+
+Total Cells = 14876
+DFF Cells = 1613
+
+```math
+Flop\ Ratio = \frac{DFFs}{Total Cells}   =   \frac{1613}{14876} = 0.10842
+```
+
+* Run Floorplan
+```bash
+run_floorplan
+```
+<img width="1198" height="761" alt="Screenshot 2025-09-28 at 3 34 42 PM" src="https://github.com/user-attachments/assets/73ff1aa5-04f8-4d8b-8a27-fe6bb6910b32" />
+<img width="864" height="638" alt="Screenshot 2025-09-28 at 3 42 33 PM" src="https://github.com/user-attachments/assets/55a9527d-9764-400a-b16f-0b03a0a51a41" />
+
+* View Floorplan DEF in Magic
+
+```bash
+cd ~/soc-design-and-planning-nasscom-vsd/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/15-03_15-51/results/floorplan/
+magic -T ~/soc-design-and-planning-nasscom-vsd/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
+```
+<img width="1212" height="770" alt="Screenshot 2025-09-28 at 4 18 55 PM" src="https://github.com/user-attachments/assets/1d02fb14-9199-4425-81f3-49c11477f591" />
+<img width="1213" height="743" alt="Screenshot 2025-09-28 at 4 30 55 PM" src="https://github.com/user-attachments/assets/7a217721-5539-45fb-87e4-038b1d41be9f" />
+<img width="719" height="393" alt="Screenshot 2025-09-28 at 4 31 16 PM" src="https://github.com/user-attachments/assets/de016147-89eb-452e-a977-94ac858155de" />
+
