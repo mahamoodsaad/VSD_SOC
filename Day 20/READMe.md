@@ -195,8 +195,8 @@ set ::env(SYNTH_SIZING) 1
 
 run_synthesis
 ```
-<img width="1005" height="421" alt="Screenshot 2025-10-01 at 1 42 34 PM" src="https://github.com/user-attachments/assets/b719b411-3ce5-4b0e-a3b4-e8bb44075ffd" />
-<img width="1202" height="759" alt="Screenshot 2025-10-01 at 4 01 17 PM" src="https://github.com/user-attachments/assets/c56d2454-cf5a-4b98-ae73-301aaa93523c" />
+<img width="1002" height="384" alt="Screenshot 2025-10-01 at 8 26 59 PM" src="https://github.com/user-attachments/assets/8c77e17d-f521-46eb-ae0a-bb244090c31f" />
+<img width="1212" height="769" alt="Screenshot 2025-10-01 at 8 29 00 PM" src="https://github.com/user-attachments/assets/c17d8717-3437-49eb-9bd2-3d0baf436e5c" />
 <img width="1204" height="766" alt="Screenshot 2025-10-01 at 1 46 18 PM" src="https://github.com/user-attachments/assets/509dfe46-ba70-4fdb-bebd-560d9eded05e" />
 
 * Run STA in another terminal:
