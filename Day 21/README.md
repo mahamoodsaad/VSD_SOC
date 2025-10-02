@@ -176,9 +176,9 @@ Screenshot of fast route guide present
 
 ```shell
 cd ~/soc-design-and-planning-nasscom-vsd/Desktop/work/tools/openlane_working_dir/openlane/scripts/spef_extractor
-python3 main.py -l /home/saad/soc-design-and-planning-nasscom-vsd/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/30-09_06-19/tmp/merged.lef -d /home/spatha/soc-design-and-planning-nasscom-vsd/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/19-07_00-15/results/routing/picorv32a.def
+python3 main.py -l /home/saad/soc-design-and-planning-nasscom-vsd/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/30-09_06-19/tmp/merged.lef -d /home/saad/soc-design-and-planning-nasscom-vsd/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/30-09_06-19/results/routing/picorv32a.def
 ```
-<img width="1204" height="357" alt="Screenshot 2025-10-01 at 7 22 35 PM" src="https://github.com/user-attachments/assets/70ba4617-46e0-4c74-8862-d634930d41d8" />
+<img width="814" height="399" alt="Screenshot 2025-10-01 at 8 17 41 PM" src="https://github.com/user-attachments/assets/0269d854-b08f-490f-a32b-84464aac8bd5" />
 
 Screenshot of spef extracted:
 <img width="1206" height="677" alt="Screenshot 2025-10-01 at 7 23 35 PM" src="https://github.com/user-attachments/assets/d8f3a535-57ea-482c-b9c9-a2f503b6b686" />
