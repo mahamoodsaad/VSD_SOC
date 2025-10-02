@@ -254,24 +254,24 @@ report_checks -fields {net cap slew input_pins fanout} -digits 4
 * Replace the old netlist with the new netlist generated after timing ECO fix and implement the floorplan, placement and cts
 
 ```bash
-cd  /home/saad/soc-design-and-planning-nasscom-vsd/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/25-07_23-12/results/synthesis
+cd  /home/saad/soc-design-and-planning-nasscom-vsd/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/29-09_16-36/results/synthesis
 
 cp picorv32a.synthesis.v picorv32a.synthesis_old.v
 
 ls
 ```
-<img width="804" height="218" alt="Screenshot 2025-10-01 at 2 04 25 PM" src="https://github.com/user-attachments/assets/8ce54c47-2a9d-4595-ab85-791327409e92" />
+<img width="817" height="177" alt="Screenshot 2025-10-01 at 8 08 39 PM" src="https://github.com/user-attachments/assets/b40ab056-0965-4828-9e9d-10a85a7210a2" />
 
 ```bash
 help write_verilog
 
-write_verilog /home/sdudigani/soc-design-and-planning-nasscom-vsd/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/25-07_23-12/results/synthesis/picorv32a.synthesis.v
+write_verilog /home/saad/soc-design-and-planning-nasscom-vsd/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/29-09_16-36/results/synthesis/picorv32a.synthesis.v
 
 exit
 ```
 
 Verify the netlist is overwritten by checking that instance _14506_ is replaced with sky130_fd_sc_hd__or4_4
-<img width="1210" height="771" alt="Screenshot 2025-10-01 at 4 08 21 PM" src="https://github.com/user-attachments/assets/1bce336f-976a-4929-b83a-0fb6b98e44ff" />
+<img width="1013" height="582" alt="Screenshot 2025-10-01 at 8 00 52 PM" src="https://github.com/user-attachments/assets/eb8d10bd-860d-4910-ac8f-cf923d26fe4f" />
 
 Adding the following two lines to config.tcl
 ```bash
